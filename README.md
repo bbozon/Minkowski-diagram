@@ -1,5 +1,5 @@
-# Minkowsky-diagram
-A Python program to create Minkowsky diagrams (spacetime).
+# Minkowski-diagram
+A Python program to create Minkowski diagrams (spacetime).
 The program has the following functionalities:
 1) create events, with it's associated light cone
 2) create worldlines

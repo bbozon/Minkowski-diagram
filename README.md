@@ -7,3 +7,5 @@ The program has the following functionalities:
 4) set frame of reference (v): from which reference velocity do you want to look at the diagram?
 
 The program save png's to the HD for later referencing. Combined with makeavi (freeware) animations can be made.
+
+To use: run in a spyder (or equivalent) environment.
